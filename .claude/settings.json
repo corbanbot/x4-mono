@@ -62,13 +62,6 @@
     "security-guidance@claude-plugins-official": true,
     "plugin-dev@claude-plugins-official": true,
     "hookify@claude-plugins-official": true,
-    "greptile@claude-plugins-official": true,
-    "frontend@anthropic-ai/claude-code": true,
-    "commit@anthropic-ai/claude-code": true
-  },
-  "marketplaces": [
-    "claude-plugins-official",
-    "superpowers-marketplace",
-    "anthropic-ai/claude-code"
-  ]
+    "greptile@claude-plugins-official": true
+  }
 }
